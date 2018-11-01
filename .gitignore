@@ -2,4 +2,10 @@
 03-bases-node/tablas/
 04-to-do/node_modules/
 05-weather_world/node_modules/
+06-webserver/
+07-restserver/
+08-socket-basico/
+09-aplicacion-colas/
+10-socket-chat/
+11-typescript-mysql/node_modules
 .vscode/
